@@ -1,0 +1,6 @@
+{
+  "name": "HobbyConnect - MERN Social Hobby & Networking Platform",
+  "description": "Full-stack MERN platform connecting hobbyists through shared passions, skill exchanges, smart matchmaking, connections, and direct messaging powered by Express and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
